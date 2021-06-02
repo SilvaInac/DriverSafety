@@ -31,6 +31,7 @@ main
 │   │   └── satelite.h
 │   │   └── modem_lte.h
 │   └── CMakeList.txt
+├── main.c
 
 
 ###### CONFIGURAÇÃO DO AMBIENTE ####
